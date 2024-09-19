@@ -1,0 +1,11 @@
+@import '@realpage/raul-library/dist/raul/raul';
+
+.no-wrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.money-values {
+  text-align: right;
+}
